@@ -6,9 +6,9 @@
 . . . . . b b 5 5 5 5 5 b . . . 
 . b b b b b 5 5 5 5 5 5 5 b . . 
 . b d 5 b 5 5 5 5 5 5 5 5 b . . 
-. . b 5 5 b 5 d 1 f 5 d 4 f . . 
-. . b d 5 5 b 1 f f 5 4 4 c . . 
-b b d b 5 5 5 d f b 4 4 4 4 b . 
+. . b 5 5 b 5 d 1 2 5 d 4 2 . . 
+. . b d 5 5 b 1 2 2 5 4 4 2 . . 
+b b d b 5 5 5 d 2 b 4 4 4 4 b . 
 b d d c d 5 5 b 5 4 4 4 4 4 4 b 
 c d d d c c b 5 5 5 5 5 5 5 b . 
 c b d d d d d 5 5 5 5 5 5 5 b . 
@@ -23,9 +23,9 @@ c b d d d d d 5 5 5 5 5 5 5 b .
 . . . b 5 5 5 5 5 b b . . . . . 
 . . b 5 5 5 5 5 5 5 b b b b b . 
 . . b 5 5 5 5 5 5 5 5 b 5 d b . 
-. . f 4 d 5 f 1 d 5 b 5 5 b . . 
-. . c 4 4 5 f f 1 b 5 5 d b . . 
-. b 4 4 4 4 b f d 5 5 5 b d b b 
+. . 2 4 d 5 2 1 d 5 b 5 5 b . . 
+. . c 4 4 5 2 2 1 b 5 5 d b . . 
+. b 4 4 4 4 b 2 d 5 5 5 b d b b 
 b 4 4 4 4 4 4 5 b 5 5 d c d d b 
 . b 5 5 5 5 5 5 5 b c c d d d c 
 . b 5 5 5 5 5 5 5 d d d d d b c 
@@ -88,9 +88,9 @@ b 4 4 4 d d f f 1 5 5 b . . . .
 . . . . b 5 b . . . . . . . . . 
 . . . . b b b b b b . . . . . . 
 . . . b 5 5 5 5 5 b b . . . . . 
-. . c 4 d 5 f 1 d 5 b b . . . . 
-b 4 4 4 d d f f 1 5 5 b . . . . 
-. b 4 4 4 4 b f d 5 5 b . . . . 
+. . 2 4 d 5 2 1 d 5 b b . . . . 
+b 4 4 4 d d 2 2 1 5 5 b . . . . 
+. b 4 4 4 4 b 2 d 5 5 b . . . . 
 . . b 4 4 4 4 5 5 5 5 d b . . . 
 . . b 5 5 5 5 5 5 5 d d d b b . 
 . b 5 5 5 5 5 5 5 b b b d d d b 
@@ -306,7 +306,7 @@ bb77bb77b77bb77bbb77b77bbbb77b7b77b7777bbb77bb77b77bb77bbb77b77bbbb77b7b77b7777b
 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><next><block type="game_show_long_text" id=":hdB=TNjtw99];jd|OSE"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="*zxno_hLKdsRym4JGs[/"><field name="TEXT">Gameplay  Präsentiert</field></shadow></value><next><block type="game_show_long_text" id="z3x4p`s7+CT;?ZxS;_+*"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="Maie;Iq=Bv}C@rZOF[]["><field name="TEXT">Toon Straße</field></shadow></value><next><block type="game_show_long_text" id="H}!6n](JpBD9O,Se~W{w"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="SZeQ0/9f{ybPkeV_opwM"><field name="TEXT">Version: 1.6 </field></shadow></value><next><block type="hudsetScore" id="3Iu_aU?Yu+wYt(MfM%)6"><value name="value"><shadow type="math_number" id="4:RtDd_9V@L1_$7e6gmh"><field name="NUM">0</field></shadow></value><next><block type="hudSetLife" id=")8d5M`})4uf5%FPqWEYP"><value name="value"><shadow type="math_number" id="5$+=Beg$0A/nyhU:[^T7"><field name="NUM">3</field></shadow></value><next><block type="gamesetbackgroundimage" id="[K3tIn{=:-}/*6X6/,Jn"><value name="img"><shadow type="background_image_picker" id="^(B+MAA9MRF;}{=T;pm="><field name="img">img`
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><next><block type="game_show_long_text" id=":hdB=TNjtw99];jd|OSE"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="*zxno_hLKdsRym4JGs[/"><field name="TEXT">Gameplay  Präsentiert</field></shadow></value><next><block type="game_show_long_text" id="z3x4p`s7+CT;?ZxS;_+*"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="Maie;Iq=Bv}C@rZOF[]["><field name="TEXT">Toon Straße</field></shadow></value><next><block type="game_show_long_text" id="H}!6n](JpBD9O,Se~W{w"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="SZeQ0/9f{ybPkeV_opwM"><field name="TEXT">Version: 1.7 letztes update </field></shadow></value><next><block type="hudsetScore" id="3Iu_aU?Yu+wYt(MfM%)6"><value name="value"><shadow type="math_number" id="4:RtDd_9V@L1_$7e6gmh"><field name="NUM">0</field></shadow></value><next><block type="hudSetLife" id=")8d5M`})4uf5%FPqWEYP"><value name="value"><shadow type="math_number" id="5$+=Beg$0A/nyhU:[^T7"><field name="NUM">3</field></shadow></value><next><block type="gamesetbackgroundimage" id="[K3tIn{=:-}/*6X6/,Jn"><value name="img"><shadow type="background_image_picker" id="^(B+MAA9MRF;}{=T;pm="><field name="img">img`
 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 9999999999999999999999999999999999999999999999999999111111111119999999999999999999999999999999999999991111999999999999999999999999999999999999999999111111111111
 99999999999999999999999999999999999999999999999999991ddddddddd19999999999999999999999999991111199999991dd11999999999999999999999999999999999999999991dddddddddd1

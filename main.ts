@@ -578,7 +578,7 @@ scene.setBackgroundImage(img`
     `)
 game.showLongText("Gameplay  Präsentiert", DialogLayout.Bottom)
 game.showLongText("Toon Straße", DialogLayout.Bottom)
-game.showLongText("Version: 1.6 ", DialogLayout.Bottom)
+game.showLongText("Version: 1.7 letztes update ", DialogLayout.Bottom)
 info.setScore(0)
 info.setLife(3)
 scene.setBackgroundImage(img`
@@ -732,9 +732,9 @@ game.onUpdateInterval(500, function () {
         . . . . . b b 5 5 5 5 5 b . . . 
         . b b b b b 5 5 5 5 5 5 5 b . . 
         . b d 5 b 5 5 5 5 5 5 5 5 b . . 
-        . . b 5 5 b 5 d 1 f 5 d 4 f . . 
-        . . b d 5 5 b 1 f f 5 4 4 c . . 
-        b b d b 5 5 5 d f b 4 4 4 4 b . 
+        . . b 5 5 b 5 d 1 2 5 d 4 2 . . 
+        . . b d 5 5 b 1 2 2 5 4 4 2 . . 
+        b b d b 5 5 5 d 2 b 4 4 4 4 b . 
         b d d c d 5 5 b 5 4 4 4 4 4 4 b 
         c d d d c c b 5 5 5 5 5 5 5 b . 
         c b d d d d d 5 5 5 5 5 5 5 b . 
@@ -756,9 +756,9 @@ game.onUpdateInterval(500, function () {
         . . . b 5 5 5 5 5 b b . . . . . 
         . . b 5 5 5 5 5 5 5 b b b b b . 
         . . b 5 5 5 5 5 5 5 5 b 5 d b . 
-        . . f 4 d 5 f 1 d 5 b 5 5 b . . 
-        . . c 4 4 5 f f 1 b 5 5 d b . . 
-        . b 4 4 4 4 b f d 5 5 5 b d b b 
+        . . 2 4 d 5 2 1 d 5 b 5 5 b . . 
+        . . c 4 4 5 2 2 1 b 5 5 d b . . 
+        . b 4 4 4 4 b 2 d 5 5 5 b d b b 
         b 4 4 4 4 4 4 5 b 5 5 d c d d b 
         . b 5 5 5 5 5 5 5 b c c d d d c 
         . b 5 5 5 5 5 5 5 d d d d d b c 
@@ -821,9 +821,9 @@ game.onUpdateInterval(500, function () {
         . . . . b 5 b . . . . . . . . . 
         . . . . b b b b b b . . . . . . 
         . . . b 5 5 5 5 5 b b . . . . . 
-        . . c 4 d 5 f 1 d 5 b b . . . . 
-        b 4 4 4 d d f f 1 5 5 b . . . . 
-        . b 4 4 4 4 b f d 5 5 b . . . . 
+        . . 2 4 d 5 2 1 d 5 b b . . . . 
+        b 4 4 4 d d 2 2 1 5 5 b . . . . 
+        . b 4 4 4 4 b 2 d 5 5 b . . . . 
         . . b 4 4 4 4 5 5 5 5 d b . . . 
         . . b 5 5 5 5 5 5 5 d d d b b . 
         . b 5 5 5 5 5 5 5 b b b d d d b 
